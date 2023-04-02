@@ -1,0 +1,95 @@
+h2{
+    color:palevioletred;
+}
+.red{
+    color:red;
+}
+.green{
+color: green;
+}
+.hr{
+   text-transform: uppercase; 
+   color: grey;
+   text-decoration: underline;
+}
+.shaha{
+    color: blue;
+    text-decoration: overline;
+    text-shadow: 2px 2px 1px gray;
+}
+#sali{
+color: blueviolet;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+border-left: 15px dotted ;
+}
+#div{
+    border: 3px solid rgb(141, 31, 68);
+    border-radius: 25px;
+}
+img{
+    width: 700px;
+}
+h1{
+    color: green;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#id{
+    color: blueviolet;
+    text-decoration: underline;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+h4{
+    text-transform: uppercase;
+    color: grey;
+    font-family: sans-serif;
+}
+#do{
+    color: rgb(10, 10, 104);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#do2{
+    color: red;
+}
+#de{
+    color: aqua;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#dr{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#dr2{
+    color: purple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bold{
+    font-style:bold ;
+    color: blue;
+}
+.v1{
+    font-style: italic;
+}
+.v2{
+    text-transform: uppercase;
+    color: orangered;
+}
+#v3{
+    color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.v4{
+    color: green;
+    text-decoration: line-through;
+    font-style: inherit;
+}
+.v5{
+    color: fuchsia;
+    text-decoration: overline underline;
+    font-style: bold;
+}
